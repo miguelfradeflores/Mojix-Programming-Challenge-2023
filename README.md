@@ -7,7 +7,7 @@ Image generator based on some pixel art using OpenCV and Numpy to draw over a wh
 install the libraries dependencies from the requirements.txt file by executing the next line of code.
 
 ```python
-pip install -t build/ -r requirements.txt --upgrade
+pip install -r requirements.txt --upgrade
 ```
 
 # Execution
